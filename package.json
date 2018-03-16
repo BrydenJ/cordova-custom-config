@@ -30,7 +30,7 @@
     ],
     "dependencies": {
         "lodash": "^4.3.0",
-        "elementtree": "^0.1.6",
+        "elementtree": "0.1.6",
         "plist": "xiangpingmeng/plist.js",
         "xcode": "^1.0.0",
         "colors": "^1.1.2",
