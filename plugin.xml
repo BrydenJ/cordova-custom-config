@@ -9,11 +9,12 @@
     <author>Dave Alden</author>
 
     <engines>
-        <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova" version=">=7.1.0"/>
+        <engine name="cordova-android" version=">=6.3.0"/>
     </engines>
 
-    <repo>https://github.com/dpa99c/cordova-custom-config.git</repo>
-    <issue>https://github.com/dpa99c/cordova-custom-config/issues</issue>
+    <repo>https://github.com/BrydenJ/cordova-custom-config.git</repo>
+    <issue>https://github.com/BrydenJ/cordova-custom-config/issues</issue>
 
     <keywords>ecosystem:cordova,cordova,phonegap,ios,android,config,configuration,plist,manifest</keywords>
 
